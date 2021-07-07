@@ -14,3 +14,11 @@ Cornelius Fiddlebone:
   name: Cornelius Fiddlebone
   picture: /images/bio-photo.jpg
   twitter: corneliusfiddlebone
+
+HoHyeong Kang:
+  name: 강호형(hohyeong kang)
+  picture: /images/bio-photo.jpg
+  links:
+    - title: GitHub
+      url: https://github.com/kanghohyeong
+      icon: fab fa-github-square

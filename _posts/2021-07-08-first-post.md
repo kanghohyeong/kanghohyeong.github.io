@@ -3,7 +3,7 @@ layout: post
 title: "첫 포스트!"
 date: 2021-07-08
 categories:
-  - talk
+  - Talk
 tags:
   - 호불호 개발일지
 author: HoHyeong Kang

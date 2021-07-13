@@ -17,6 +17,7 @@
 remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: ko-KR
+lang: "ko-KR"
 title: "호불호 개발일지"
 description: "hobro's blog"
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -34,7 +35,7 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Noto Sans KR"
     weights: "400,400i,700,700i"
-google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+google_analytics: "G-CPQ16MSEPD"
 disqus:
   shortname: "hobro"
 twitter:
@@ -91,9 +92,9 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: HoHyeong Kang
   picture:
-  email:
+  email: hobro.kang@gmail.com
   twitter:
   links:
     - title:

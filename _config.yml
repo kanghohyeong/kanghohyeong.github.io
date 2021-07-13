@@ -35,7 +35,7 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Noto Sans KR"
     weights: "400,400i,700,700i"
-google_analytics: "G-CPQ16MSEPD"
+google_analytics: "UA-202037248-1"
 disqus:
   shortname: "hobro"
 twitter:

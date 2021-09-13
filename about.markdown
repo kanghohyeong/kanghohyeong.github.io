@@ -2,9 +2,6 @@
 layout: about
 title: Hello, world!
 permalink: /about/
-image:
-  path: /images/hello.png
-  caption: "welcome!"
 ---
 
 안녕하세요. 개발자 강호형 입니다!

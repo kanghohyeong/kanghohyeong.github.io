@@ -169,6 +169,10 @@ blockquote {
       color: $accent-color;
     }
   }
+  transition: $global-transition;
+}
+.entry:hover {
+  background-color: $code-background-color;
 }
 
 /* ==========================================================================
@@ -179,7 +183,6 @@ th,
 td {
   border-bottom-color: $border-color;
 }
-
 
 /* ==========================================================================
    NOTICE TEXT BLOCKS
@@ -237,12 +240,9 @@ td {
 
 .btn {
   /* button colors */
-  $buttoncolors: (primary, $primary-color), (accent, $accent-color), (inverse, #fff),
-  (light-outline, transparent),  (success, $success-color),
-  (warning, $warning-color),  (danger, $danger-color),  (info, $info-color),
-  (facebook, $facebook-color),  (twitter, $twitter-color),
-  (google-plus, $google-plus-color),  (linkedin, $linkedin-color),
-  (reddit, $reddit-color);
+  $buttoncolors: (primary, $primary-color), (accent, $accent-color), (inverse, #fff), (light-outline, transparent), (success, $success-color),
+    (warning, $warning-color), (danger, $danger-color), (info, $info-color), (facebook, $facebook-color), (twitter, $twitter-color),
+    (google-plus, $google-plus-color), (linkedin, $linkedin-color), (reddit, $reddit-color);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
@@ -270,8 +270,8 @@ td {
    ========================================================================== */
 
 code.highlighter-rouge {
-  color: $base05;
-  background-color: $base00;
+  color: $base09; /*기본값 base05*/
+  background-color: $base07; /*기본값 base00*/
 }
 
 div.highlighter-rouge,

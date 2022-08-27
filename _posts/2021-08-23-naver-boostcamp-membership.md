@@ -6,6 +6,7 @@ categories:
   - Talk
 tags:
   - 네이버 부스트캠프
+  - 후기
 author: HoHyeong Kang
 excerpt: "챌린지의 기억을 뒤돌아보고 다시 새로운 시작을 다짐하기 위해 간단히 글을 쓰게 되었습니다."
 ---

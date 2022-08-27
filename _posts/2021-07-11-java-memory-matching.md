@@ -6,9 +6,8 @@ categories:
   - Project
 tags:
   - project
-  - JAVA
+  - java
   - 전공 수업
-  - 카드 뒤집기 게임
 author: HoHyeong Kang
 excerpt: "본 포스트는 제가 2021년 1학기 자바프로그래밍실습 수업에서 진행한 기말 팀프로젝트에 대한 기록입니다."
 ---

@@ -3,10 +3,11 @@ layout: post
 title: "[JS] Prototype"
 date: 2021-09-13
 categories:
-  - Javascript
+  - Dev
 tags:
-  - Javascript
+  - javascript
   - prototype
+  - OOP
 author: HoHyeong Kang
 excerpt: "자바스크립트의 프로토타입에 대해 알아봅시다."
 ---

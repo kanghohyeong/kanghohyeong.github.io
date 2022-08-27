@@ -5,7 +5,7 @@ date: 2021-07-08
 categories:
   - Talk
 tags:
-  - 호불호 개발일지
+  - 개발자 블로그
 author: HoHyeong Kang
 excerpt: "이틀간의 뻘짓 끝에 드디어 개발자 블로그를 시작하게 되었습니다."
 ---

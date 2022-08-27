@@ -6,6 +6,7 @@ categories:
   - Talk
 tags:
   - 네이버 부스트캠프
+  - 후기
 author: HoHyeong Kang
 excerpt: "네이버 부스트캠프 웹 풀스텍 과정 수료 후기입니다."
 ---

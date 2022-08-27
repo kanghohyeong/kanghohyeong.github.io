@@ -106,3 +106,14 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+# Category
+categories:
+  - description: 잡담
+    name: Talk
+  - description: 프로젝트
+    name: Project
+  - description: 개발
+    name: Dev
+  - description: TIL
+    name: TIL

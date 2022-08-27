@@ -3,9 +3,9 @@ layout: post
 title: "함수 기반 랜더링 방식으로 SPA 구현하기"
 date: 2021-10-11
 categories:
-  - Javascript
+  - Dev
 tags:
-  - Javascript
+  - javascript
   - FP
 author: HoHyeong Kang
 excerpt: "바닐라스크립트로 함수형 프로그래밍 아이디어를 도입하여 SPA을 위한 비동기 View 랜더링을 구현해보았습니다."

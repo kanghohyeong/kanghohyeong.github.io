@@ -3,11 +3,12 @@ layout: post
 title: "깃허브 블로그 만들기(feat.공식문서)"
 date: 2021-07-08
 categories:
-  - Github Pages
+  - Dev
 tags:
   - github pages
   - static page generator
   - jekyll
+  - 개발자 블로그
 author: HoHyeong Kang
 excerpt: "본 포스트는 제가 따른 GitHub Docs의 GitHub Pages 관련 내용에 대한 요약 및 번역, 거기에 제가 읽으면서 추가적으로 이해가 필요했던 부분을 추가한 내용으로 구성하였습니다. 최종적으로 **언제든지 외형과 기능을 추가, 제거, 수정**할 수 있고, **로컬에서 테스트 후 퍼블리싱**할 수 있는 형태의 블로그 제작을 목표로 합니다."
 ---

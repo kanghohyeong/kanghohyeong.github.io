@@ -2,7 +2,7 @@
 layout: post
 title: "객체지향의 사실과 오해"
 date: 2021-09-27
-categories:
+categories: 
   - Dev
 tags:
   - OOP
